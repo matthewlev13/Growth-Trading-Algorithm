@@ -1,0 +1,2 @@
+# Growth-Trading-Algorithm
+ a comprehensive algorithm in Python to trade high growth stocks of the S&amp;P500 using  Quantopian Pipeline API. Automated trades on a weekly basis and utilized several libraries in Python  including pandas and matplotlib. Determined high growth stocks on the basis of revenue growth  (80-100 percentile), return on invested capital, and analyst projections among others.  
